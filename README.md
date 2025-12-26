@@ -443,3 +443,4 @@ Jesse Eldridge
 ---
 
 **Note:** This is a portfolio project demonstrating production-ready bot development, workflow automation, and Slack integration. Demo mode available for evaluation without Slack credentials.
+# Workflow engine v2
